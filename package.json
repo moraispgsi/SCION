@@ -37,8 +37,7 @@
     "optimist": "0.6.1",
     "sax": "1.2.1",
     "scion-core": "1.5.4",
-    "text-to-js-identifier": "0.0.4",
-    "vm2": "^3.4.6"
+    "text-to-js-identifier": "0.0.4"
   },
   "devDependencies": {
     "async": "^1.5.2",
